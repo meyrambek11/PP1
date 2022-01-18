@@ -1,0 +1,20 @@
+2
+15 
+Almaty 80 
+Kostanai 243 
+Oskemen 243 
+Oral 219 
+Turkistan 93 
+Karagandy 159 
+Aktobe 36 
+Kostanai 136 
+Oskemen 116 
+Aktau 92 
+Turkistan 26 
+Taraz 196 
+PetroPavlsk 62 
+Aktobe 56 
+Aktobe 95 
+2
+Astana 112 
+Pavlodar 2

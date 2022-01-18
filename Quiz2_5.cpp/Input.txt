@@ -1,0 +1,1 @@
+machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
